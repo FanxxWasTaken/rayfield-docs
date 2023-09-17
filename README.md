@@ -24,5 +24,30 @@ Last updated for the Beta 7R release
   - 🔑 **Key System**
   - 🔗 **Discord Auto Joins**
   - 🔔 **Notifications with actions**
+  - 📜 **Rich Documentation**
+  - 📚 **Active Community Support**
+  - 📈 **Scalable for All Roblox Games**
+  - 🌐 **Multi-Platform Compatibility**
+  - 🔒 **Secured Data**
 
-- 💃 **Amazing perfomance while having under 2.5k lines of code!**
+
+Protect your valuable data with Rayfield's robust security measures.
+
+- 🚫 **DMCA Takedown Request**
+
+We offer DMCA takedown support in case someone steals your script, ensuring your intellectual property is protected.
+
+- 📦 **Modular Design**
+
+Rayfield's modular architecture allows easy customization and extensibility for your projects.
+
+- ⏰ **Scheduled Tasks**
+
+Automate repetitive tasks with Rayfield's built-in scheduler, saving you time and effort.
+
+- 🛡️ **Security Features**
+
+Benefit from built-in security features to keep your scripts and data safe.
+
+- 💃 **Amazing performance while having under 2.5k lines of code!**
+
